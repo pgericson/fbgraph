@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{fbgraph}
   s.rubygems_version = %q{1.3.7}
-  s.signing_key = %q{/home/nicolas/certs/gem-private_key.pem}
+  #s.signing_key = %q{/home/nicolas/certs/gem-private_key.pem}
   s.summary = %q{A Gem for Facebook Open Graph API}
 
   if s.respond_to? :specification_version then
